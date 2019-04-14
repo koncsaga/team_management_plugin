@@ -1,0 +1,33 @@
+.team-members .item{
+    margin-top: 45px;
+}
+.team-members .t-image{
+    width: 318px;
+    height: 180px;
+    background-size: cover;
+}
+.team-members .icons i{
+    margin-right: 5px;
+}
+.team-members .fa-facebook-square{
+    font-size: 20px;
+    color: #356CAC;
+}
+.team-members .fa-twitter-square{
+    font-size: 20px;
+    color: #499BE1;
+}
+.team-members .position{
+    font-size: 14px;
+}
+.team-members .t-content{
+    font-size: 12px;
+}
+.team-members button{
+    cursor: pointer;
+    font-style: normal;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-weight: 300;
+    margin-top: 10px;
+}
